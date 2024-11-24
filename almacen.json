@@ -46,14 +46,14 @@
     "mail":""
     }
   ],
-<<<<<<< HEAD
   "asistencia":[
     {
     "id": "",
     "evento": "",
     "fecha": "",
     "rut": ""
-=======
+    }
+  ],
   "eventos":[
     {
       "id":"",
@@ -64,7 +64,6 @@
       "descripcion":"",
       "hora":"",
       "tipo":""
->>>>>>> 8cbde4a0f839e2393bae462d992f50908459667f
     }
   ]
 
