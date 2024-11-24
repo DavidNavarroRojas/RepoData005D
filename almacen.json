@@ -45,5 +45,13 @@
     "rut": "",
     "mail":""
     }
+  ],
+  "asistencia":[
+    {
+    "id": "",
+    "evento": "",
+    "fecha": "",
+    "rut": ""
+    }
   ]
 }
