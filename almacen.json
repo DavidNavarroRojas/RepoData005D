@@ -39,10 +39,24 @@
   ],
   "asistentes":[
     {
+    "id":"",
     "evento": "",
     "fecha": "",
     "rut": "",
     "mail":""
     }
+  ],
+  "eventos":[
+    {
+      "id":"",
+      "imagen":"",
+      "nombre":"",
+      "fecha":"",
+      "lugar":"",
+      "descripcion":"",
+      "hora":"",
+      "tipo":""
+    }
   ]
+
 }
